@@ -1,4 +1,4 @@
-# WireGuard
+# WireGuard | Personal use only .
 
 WireGuard is a communication protocol and free and open-source software that implements encrypted virtual private networks, and was designed with the goals of ease of use, high speed performance, and low attack surface . 
 
