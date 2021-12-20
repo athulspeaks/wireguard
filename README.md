@@ -21,6 +21,6 @@ chmod +x wireguard.sh
 ./wireguard.sh
 ```
 
-It will install WireGuard (kernel module and tools) on the server, configure it, create a systemd service and a client configuration file .
+It will install WireGuard ( kernel module and tools ) on the server, configure it, create a systemd service and a client configuration file .
 
 Run the script again to add or remove clients !
